@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1763500199 source:c:\users\andr3\desktop\facultate\an_2\an2_sem1\algoritmi_si_structuri_de_date\quicksort\quicksort..c
+	<stdio.h>
+	"quicksort.h"
+
+1763297578 c:\users\andr3\desktop\facultate\an_2\an2_sem1\algoritmi_si_structuri_de_date\quicksort\quicksort.h
+
+1763500261 source:c:\users\andr3\desktop\facultate\an_2\an2_sem1\algoritmi_si_structuri_de_date\quicksort\main.c
+	<stdio.h>
+	"quicksort.h"
+
