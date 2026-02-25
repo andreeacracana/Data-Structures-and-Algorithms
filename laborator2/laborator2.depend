@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1761078165 source:c:\users\andr3\desktop\an2_sem1\algoritmi_si_structuri_de_date\laborator2\main.c
+	<stdio.h>
+	"stack.h"
+
+1761078948 c:\users\andr3\desktop\an2_sem1\algoritmi_si_structuri_de_date\laborator2\stack.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
