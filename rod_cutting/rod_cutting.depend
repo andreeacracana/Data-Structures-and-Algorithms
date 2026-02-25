@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1763917850 source:c:\users\andr3\desktop\facultate\an_2\an2_sem1\algoritmi_si_structuri_de_date\rod_cutting\main.c
+	<stdio.h>
+	"rodcut.h"
+
+1764525913 c:\users\andr3\desktop\facultate\an_2\an2_sem1\algoritmi_si_structuri_de_date\rod_cutting\rodcut.h
+
+1763917378 source:c:\users\andr3\desktop\facultate\an_2\an2_sem1\algoritmi_si_structuri_de_date\rod_cutting\rodcut.c
+	<stdio.h>
+	<limits.h>
+	"rodcut.h"
+
