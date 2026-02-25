@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1763499071 source:c:\users\andr3\desktop\facultate\an_2\an2_sem1\algoritmi_si_structuri_de_date\heapsort\heapsort.c
+	<stdio.h>
+	"heapsort.h"
+
+1771097548 c:\users\andr3\desktop\facultate\an_2\an2_sem1\algoritmi_si_structuri_de_date\heapsort\heapsort.h
+
+1763500319 source:c:\users\andr3\desktop\facultate\an_2\an2_sem1\algoritmi_si_structuri_de_date\heapsort\main.c
+	<stdio.h>
+	"heapsort.h"
+
