@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1760472253 source:c:\users\andr3\desktop\an2_sem1\algoritmi_si_structuri_de_date\laborator_1_rezolvare\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1760472191 c:\users\andr3\desktop\an2_sem1\algoritmi_si_structuri_de_date\laborator_1_rezolvare\lista.h
+	<stdio.h>
+	<stdlib.h>
+
+1760471648 source:c:\users\andr3\desktop\an2_sem1\algoritmi_si_structuri_de_date\laborator_1_rezolvare\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1768560676 source:c:\users\andr3\desktop\facultate\an_2\an2_sem1\algoritmi_si_structuri_de_date\laborator_1_rezolvare\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista.h"
+
+1768560538 c:\users\andr3\desktop\facultate\an_2\an2_sem1\algoritmi_si_structuri_de_date\laborator_1_rezolvare\lista.h
+	<stdio.h>
+	<stdlib.h>
+
+1768560674 source:c:\users\andr3\desktop\facultate\an_2\an2_sem1\algoritmi_si_structuri_de_date\laborator_1_rezolvare\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista.h"
+
