@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1761591531 source:c:\users\andr3\desktop\an2_sem1\algoritmi_si_structuri_de_date\stiva\stiva.c
+	<stdio.h>
+	<stdlib.h>
+	"stiva.h"
+
+1761591527 c:\users\andr3\desktop\an2_sem1\algoritmi_si_structuri_de_date\stiva\stiva.h
+
+1761591576 source:c:\users\andr3\desktop\an2_sem1\algoritmi_si_structuri_de_date\stiva\main.c
+	<stdio.h>
+	<stdlib.h>
+	"stiva.h"
+
+1761591576 source:c:\users\andr3\desktop\facultate\an_2\an2_sem1\algoritmi_si_structuri_de_date\stiva\main.c
+	<stdio.h>
+	<stdlib.h>
+	"stiva.h"
+
+1761677622 c:\users\andr3\desktop\facultate\an_2\an2_sem1\algoritmi_si_structuri_de_date\stiva\stiva.h
+
+1761678309 source:c:\users\andr3\desktop\facultate\an_2\an2_sem1\algoritmi_si_structuri_de_date\stiva\stiva.c
+	<stdio.h>
+	<stdlib.h>
+	"stiva.h"
+
