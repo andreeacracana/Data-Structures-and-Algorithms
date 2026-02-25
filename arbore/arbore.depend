@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1770817564 source:c:\users\andr3\desktop\facultate\an_2\an2_sem1\algoritmi_si_structuri_de_date\arbore\arbore.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<limits.h>
+	"arbore.h"
+
+1770817087 c:\users\andr3\desktop\facultate\an_2\an2_sem1\algoritmi_si_structuri_de_date\arbore\arbore.h
+
+1770817523 source:c:\users\andr3\desktop\facultate\an_2\an2_sem1\algoritmi_si_structuri_de_date\arbore\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<limits.h>
+	"arbore.h"
+
