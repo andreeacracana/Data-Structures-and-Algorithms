@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1764525325 source:c:\users\andr3\desktop\facultate\an_2\an2_sem1\algoritmi_si_structuri_de_date\inmultirea_unui_sir_de_matrici\matrici.c
+	<stdio.h>
+	<limits.h>
+	"matrici.h"
+
+1764525323 c:\users\andr3\desktop\facultate\an_2\an2_sem1\algoritmi_si_structuri_de_date\inmultirea_unui_sir_de_matrici\matrici.h
+
+1764525428 source:c:\users\andr3\desktop\facultate\an_2\an2_sem1\algoritmi_si_structuri_de_date\inmultirea_unui_sir_de_matrici\main.c
+	<stdio.h>
+	"matrici.h"
+
