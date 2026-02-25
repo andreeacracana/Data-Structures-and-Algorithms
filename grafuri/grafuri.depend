@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1770491458 source:c:\users\andr3\desktop\facultate\an_2\an2_sem1\algoritmi_si_structuri_de_date\grafuri\main.c
+	<stdio.h>
+	<stdlib.h>
+	"grafuri.h"
+
+1770490605 c:\users\andr3\desktop\facultate\an_2\an2_sem1\algoritmi_si_structuri_de_date\grafuri\grafuri.h
+
+1770491130 source:c:\users\andr3\desktop\facultate\an_2\an2_sem1\algoritmi_si_structuri_de_date\grafuri\grafuri.c
+	<stdio.h>
+	<stdlib.h>
+	"grafuri.h"
+
