@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1770904120 source:c:\users\andr3\desktop\facultate\an_2\an2_sem1\algoritmi_si_structuri_de_date\tabela_a_deschisa\main.c
+	<stdio.h>
+	<stdlib.h>
+	"tabela.h"
+
+1770903709 c:\users\andr3\desktop\facultate\an_2\an2_sem1\algoritmi_si_structuri_de_date\tabela_a_deschisa\tabela.h
+
+1770904131 source:c:\users\andr3\desktop\facultate\an_2\an2_sem1\algoritmi_si_structuri_de_date\tabela_a_deschisa\tabela.c
+	<stdio.h>
+	<stdlib.h>
+	"tabela.h"
+
