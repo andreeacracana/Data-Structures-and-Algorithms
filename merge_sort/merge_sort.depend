@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1763580119 source:c:\users\andr3\desktop\facultate\an_2\an2_sem1\algoritmi_si_structuri_de_date\merge_sort\merge.c
+	<stdio.h>
+	<limits.h>
+	"merge.h"
+
+1763579932 c:\users\andr3\desktop\facultate\an_2\an2_sem1\algoritmi_si_structuri_de_date\merge_sort\merge.h
+
+1763580171 source:c:\users\andr3\desktop\facultate\an_2\an2_sem1\algoritmi_si_structuri_de_date\merge_sort\main.c
+	<stdio.h>
+	"merge.h"
+
