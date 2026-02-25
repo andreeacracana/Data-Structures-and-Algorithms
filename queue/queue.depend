@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1761585294 source:c:\users\andr3\desktop\an2_sem1\algoritmi_si_structuri_de_date\queue\queue.c
+	<stdio.h>
+	<stdlib.h>
+	"queue.h"
+
+1761585746 c:\users\andr3\desktop\an2_sem1\algoritmi_si_structuri_de_date\queue\queue.h
+	<stdbool.h>
+
+1761585049 source:c:\users\andr3\desktop\an2_sem1\algoritmi_si_structuri_de_date\queue\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"queue.h"
+
+1761676227 source:c:\users\andr3\desktop\facultate\an_2\an2_sem1\algoritmi_si_structuri_de_date\queue\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"queue.h"
+
+1761676309 c:\users\andr3\desktop\facultate\an_2\an2_sem1\algoritmi_si_structuri_de_date\queue\queue.h
+	<stdbool.h>
+
+1761677449 source:c:\users\andr3\desktop\facultate\an_2\an2_sem1\algoritmi_si_structuri_de_date\queue\queue.c
+	<stdio.h>
+	<stdlib.h>
+	"queue.h"
+
